@@ -19,6 +19,7 @@ const Insights = () => (
       {/* Title */}
       <TypingText title="| Insight" textStyles="text-center" />
       <TitleText title="Insight about metaverse" textStyles="text-center" />
+
       {/* Image and text */}
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((insight, index) => (

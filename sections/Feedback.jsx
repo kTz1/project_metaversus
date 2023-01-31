@@ -20,6 +20,7 @@ const Feedback = () => (
         className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6a6a6a] relative"
       >
         <div className="feedback-gradient" />
+
         {/* Title */}
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">Samantha</h4>
@@ -28,6 +29,7 @@ const Feedback = () => (
         {/* Description */}
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">“With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0. by using metaverse you can use it as anything”</p>
       </motion.div>
+
       {/* Container - right side */}
       <motion.div
         variants={fadeIn('right', 'tween', 0.2, 1)}
@@ -38,6 +40,7 @@ const Feedback = () => (
           alt="planet-09"
           className="w-full lg:h-[610px] h-auto min-h-[210x] object-cover rounded-[40px]"
         />
+
         {/* Stamp */}
         <motion.div
           vvariant={zoomIn(0.4, 1)}

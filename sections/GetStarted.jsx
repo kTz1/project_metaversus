@@ -27,6 +27,7 @@ const GetStarted = () => (
           className="w-[90%] h-[90%] object-contain"
         />
       </motion.div>
+
       {/* Text */}
       <motion.div
         variants={fadeIn('left', 'tween', 0.2, 1)}

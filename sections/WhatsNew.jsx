@@ -32,6 +32,7 @@ const WhatsNew = () => (
           ))}
         </div>
       </motion.div>
+
       {/* Planet image */}
       <motion.div
         variants={planetVariants('right')}

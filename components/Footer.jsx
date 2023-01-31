@@ -28,6 +28,7 @@ const Footer = () => (
           <span className="font-normal text-[16px] text-white">ENTER METAVERSE</span>
         </button>
       </div>
+
       {/* Copyright and social media */}
       <div className="flex flex-col">
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
