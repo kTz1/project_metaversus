@@ -1,3 +1,12 @@
+<div align="center">
+  <img width="1427" alt="Screenshot 2024-11-12 at 14 02 26" src="https://github.com/user-attachments/assets/8716f612-5433-4097-a435-34fed6fefbff">
+   <br />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  <h1 align="center">Modern UI App Metaversus</h1>
+</div>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
